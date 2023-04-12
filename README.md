@@ -1,4 +1,1 @@
-# test
-test for AndroidDeveloper users.
-test
-test11
+自动打开固定网页截图并保存到本地磁盘
